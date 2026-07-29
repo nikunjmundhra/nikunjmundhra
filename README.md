@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nikunjmundhra
 - 👀 I’m interested in ... Python and learning more
 - 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jarry2530@gmail.com
 - ⚡ Fun fact: ...im a student
 - 
