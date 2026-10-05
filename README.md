@@ -45,7 +45,7 @@ infrastructure rather than just following tutorials.
 
 ## How to reach me
 
-- 💼 **LinkedIn:** [Nikunj Mundhra](YOUR_LINKEDIN_URL)
+- 💼 **LinkedIn:** [Nikunj Mundhra](https://www.linkedin.com/in/nikunj-mundhra-320861303/?)
 - 📧 **Email:** jarry2530@gmail.com
 - 🐙 **GitHub:** [@nikunjmundhra](https://github.com/nikunjmundhra)
 
