@@ -15,6 +15,10 @@ infrastructure rather than just following tutorials.
 - 🤖 Exploring **AI assistants, local AI, and computer vision**
 - 🐧 Learning **Linux, Docker, networking, and cloud infrastructure**
 - 🌐 Working toward a stronger foundation in **Cloud & Edge Computing**
+-    ## Open source contributions
+
+   - **[agentcost](https://github.com/yunaremaia/agentcost)**: added the `forecast` command (stdlib-only linear-regression cost projection with weekday seasonality, JSON output, budget alerts, and tests). [PR #207](https://github.com/yunaremaia/agentcost/pull/207), merged.
+ 
 
 ---
 
