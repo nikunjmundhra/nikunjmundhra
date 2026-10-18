@@ -30,7 +30,7 @@ infrastructure rather than just following tutorials.
 
 ### Development
 
-`Flask` `Git` `GitHub` `REST APIs` `VS Code`
+`Flask` `Git` `GitHub` `VS Code`
 
 ### Cloud & Infrastructure
 
